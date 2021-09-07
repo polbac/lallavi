@@ -1,0 +1,512 @@
+@import "variables.css";
+
+/* Remove extra margin from articles on single post pages. */
+
+.single .site-main > article,
+.page .site-main > article {
+	margin-bottom: 0;
+}
+
+/* Remove some top padding if the first block on the page is a full-width image, cover, media & text, or group block. */
+
+.single.hide-post-and-page-titles .entry-content > .wp-block-image.alignfull:first-child,
+.page.hide-post-and-page-titles .entry-content > .wp-block-image.alignfull:first-child,
+.single.hide-post-and-page-titles .entry-content > .wp-block-cover.alignfull:first-child,
+.page.hide-post-and-page-titles .entry-content > .wp-block-cover.alignfull:first-child,
+.single.hide-post-and-page-titles .entry-content > .wp-block-media-text.alignfull:first-child,
+.page.hide-post-and-page-titles .entry-content > .wp-block-media-text.alignfull:first-child,
+.single.hide-post-and-page-titles .entry-content > .wp-block-group.has-background.alignfull:first-child,
+.page.hide-post-and-page-titles .entry-content > .wp-block-group.has-background.alignfull:first-child {
+	margin-top: calc(-1 * var(--global--spacing-vertical));
+}
+
+/* Remove some bottom padding if the last block on the page is a full-width image, cover, media & text, or group block. */
+
+.page.hide-site-footer .entry-content > .wp-block-image.alignfull:last-child,
+.page.hide-site-footer .entry-content > .wp-block-cover.alignfull:last-child,
+.page.hide-site-footer .entry-content > .wp-block-media-text.alignfull:last-child,
+.single.hide-site-footer.hide-site-footer .entry-content > .wp-block-group.has-background.alignfull:last-child,
+.single.hide-site-footer.hide-comments .entry-content > .wp-block-image.alignfull:last-child,
+.single.hide-site-footer.hide-comments .entry-content > .wp-block-cover.alignfull:last-child,
+.single.hide-site-footer.hide-comments .entry-content > .wp-block-media-text.alignfull:last-child,
+.single.hide-site-footer.hide-comments .entry-content > .wp-block-group.has-background.alignfull:last-child {
+	margin-bottom: calc(-1 * var(--global--spacing-vertical));
+}
+
+/* Center-align headers and footers. */
+
+.entry-header,
+.page-title,
+.entry-footer,
+.site-info,
+.footer-menu {
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+body{
+	background: var(--global--color-blue);
+	color: var(--global--color-white);
+	margin: 0;
+	padding: 0;
+	font-family: 'Porpora', Arial, Helvetica, sans-serif;
+}
+body.orange{
+	background: var(--global--color-orange);
+	color: var(--global--color-black);
+}
+body.gray{
+	background: var(--global--color-white);
+	color: var(--global--color-blue);
+}
+
+body.gray a{
+	color: var(--global--color-blue);
+}
+
+body.orange a{
+	color: var(--global--color-black);
+}
+
+
+body.gray .branding path{
+	fill: var(--global--color-blue);
+}
+
+body.orange .branding path{
+	fill: var(--global--color-black);
+}
+
+body.gray nav .nav-item .open .line{
+	background: var(--global--color-blue);
+}
+
+body.orange nav .nav-item .open .line{
+	background: var(--global--color-black);
+}
+
+body.orange .menu-open h1 path{
+	fill: var(--global--color-black);
+}
+
+
+h1,h2,h3,h4,p{
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+}
+
+.alpina{
+	font-family: "Alpina", 'Times New Roman', Times, serif;
+}
+
+a{
+	color: var(--global--color-white);
+}
+
+.hover-italic:hover{
+	font-style: italic;
+}
+
+/* LANDING */
+
+.landing{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.landing article{
+	display: flex;
+	align-items: center;
+}
+
+.landing h2{
+	font-size: 100px;
+	max-width: 326px;
+	text-align: center;
+}
+
+.landing .bs-as,
+.landing .arg{
+	font-size: 12px;
+}
+
+.landing .v-crespo{
+	font-size: 20px;
+}
+
+
+.landing .icon{
+	width: 37px;
+	height: 37px;
+}
+
+
+@media (min-width: 600px) {
+	.landing h2{
+		font-size: 248px;
+		width: 826px;
+		max-width: initial;
+	}
+
+	.landing .bs-as,
+	.landing .arg{
+		font-size: 26px;
+	}
+
+	.landing .v-crespo{
+		font-size: 40px;
+		margin-top: 50px;
+	}
+
+	.landing .icon{
+		width: 85px;
+		height: 85px;
+		margin-bottom: 50px;
+	}
+
+	header{
+		max-width: 931px;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	nav .menu-items{
+		display: block !important;
+		visibility: visible;
+		position: static;
+	}
+}
+/* ----------- */
+
+h1{
+	position: fixed;
+	top: 18px;
+	left: 27px;
+	z-index: 99999999;
+}
+
+h1 svg path{
+	transition: all 1s;
+}
+
+.menu-open h1 path{
+	fill: var(--global--color-blue);
+}
+
+
+
+nav{
+	position: fixed;
+	right: 27px;
+	top: 27px;
+	z-index: 999999;
+}
+
+nav .menu-items{
+	visibility: hidden;
+	position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: var(--global--color-white);
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+	transform: translateY(100vh);
+	transition: transform 0.43s ease-out;
+	opacity: 0;
+	font-size: 24px;
+	color: var(--global--color-blue);
+}
+
+nav .menu-items a{
+	color: var(--global--color-blue);
+	text-decoration: none;
+	margin-bottom: 30px;
+}
+
+nav .nav-item{
+	cursor: pointer;
+	position: relative;
+	z-index: 999;
+}
+
+nav .nav-item .open{
+	cursor: pointer;
+}
+
+nav.display .nav-item .open .line{
+	background: var(--global--color-blue);
+}
+
+nav .nav-item .open .line{
+	width: 27px;	
+	height: 2px;
+	background: #F2F2F2;
+	border-radius: 1px;
+	margin-bottom: 9px;
+	position: relative;
+	transition: all 0.33s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+}
+
+
+nav.display .menu-items{
+	transform: translateY(0);
+	visibility: visible;
+	display: flex;
+	opacity: 1;
+}
+
+
+nav.display .nav-item .line-3{
+	transform: translateX(900px);
+}
+
+nav.display .nav-item .line-1{
+	transform: rotate(45deg);
+	top: 10px;
+}
+
+nav.display .nav-item .line-2{
+	transform: rotate(-45deg);
+}
+
+@media (min-width: 760px){
+	nav .nav-item{
+		display: none;
+	}
+	nav .menu-items{
+		visibility: visible !important;
+		opacity: 1;
+		transform: translateY(0);
+		background: transparent;
+		text-align: center;
+		top: 21px;
+		bottom: auto;
+	}
+	
+	nav .menu-items .social{
+		display: inline;
+	}
+
+	nav .menu-items,
+	nav .menu-items a{
+		color: #F2F2F2;
+		font-size: 22px;
+	}
+
+	body.gray .menu-items,
+	body.gray .menu-items a{
+		color: var(--global--color-blue)
+	}
+
+	body.orange .menu-items,
+	body.orange .menu-items a{
+		color: var(--global--color-black)
+	}
+
+	nav .menu-items > a{
+		margin-right: 85px;
+	}
+
+	nav .menu-items{
+	}
+}
+
+.slider-container{
+	position: relative;
+}
+
+.swiper-wrapper{
+	align-items: center;
+}
+
+.nosotrxs{
+	margin: auto;
+}
+
+.swiper-button-prev,.swiper-button-next{
+	color: var(--global--color-blue);
+}
+
+.swiper-button-next:after, .swiper-button-prev:after{
+	font-size: 18px;
+}
+
+.swiper-button-prev, .swiper-rtl .swiper-button-next{
+	left: 0;
+}
+
+.swiper-button-next, .swiper-rtl .swiper-button-prev{
+	right: 0;
+}
+
+.middle-center-menu{
+	display: flex;
+    min-height: 100vh;
+    font-size: 50px;
+    font-family: "Alpina", 'Times New Roman', Times, serif;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.middle-center-menu a{
+	text-decoration: none;
+}
+
+.middle-center-menu a:hover{
+	font-style: italic;
+}
+
+@media (min-width: 760px){
+	.middle-center-menu{
+		font-size: 150px;
+	}
+}
+
+/* QUE ES LA LLAVI */
+.nosotrxs-que-es-la-llavi{
+	text-align: center;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.nosotrxs-que-es-la-llavi h2{
+	font-size: 56px;
+	margin-top: 196px;
+	margin-bottom: 82px;
+}
+
+@media (min-width: 960px){
+	.nosotrxs-que-es-la-llavi h2{
+		font-size: 140px;
+	}
+}
+.nosotrxs-que-es-la-llavi .slider-container{
+	max-width: 600px;
+	margin: auto;
+}
+
+.nosotrxs-que-es-la-llavi .swiper{
+	max-width: 546px;
+	width: 75%;
+	
+}
+
+.nosotrxs-que-es-la-llavi .more-links{
+	font-size: 30px;
+	text-align: center;
+	margin-top: 17px;
+	margin-bottom: 37px;
+	display: flex;
+    justify-content: space-between;
+}
+
+@media (min-width: 640px){
+	.nosotrxs-que-es-la-llavi .more-links{
+		font-size: 35px;
+		display: block;
+	}
+}
+
+
+.nosotrxs-que-es-la-llavi .description{
+	font-size: 17px;
+	text-align: left;
+	margin-top: 84px;
+}
+
+.nosotrxs-que-es-la-llavi .more-links a{
+	color: var(--global--color-blue);
+}
+
+.nosotrxs-que-es-la-llavi .more-links a:first-of-type{
+	margin-right: 37px;
+}
+
+/* servicioe */
+.servicios ul{
+	max-width: 1100px;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+.servicios ul,
+.servicios li{
+	position: relative;
+	list-style: none;
+    padding: 0;
+    margin: 0;
+	font-size: 40px;
+	margin-bottom: 15px;
+	display: inline-block;
+	z-index: 11;
+	cursor:no-drop;
+}
+.servicios img{
+	max-width: 100px !important;
+	width: 100% !important;
+	height: auto;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	opacity: 0;
+	transition: all 0.33s ease-in-out;
+	z-index: 0;
+}
+
+@media (min-width: 640px) {
+	.servicios img{
+		max-width: 200px !important;
+	}
+}
+
+.servicios li strong{
+	font-weight: normal;
+	position: relative;
+	z-index: 100;
+}
+
+.servicios li:hover{
+	font-style: italic;
+}
+.servicios li:hover img{
+	opacity: 1;
+}
+
+.servicios li:nth-of-type(1) img{
+	right: 20%;
+}
+
+.servicios li:nth-of-type(2) img{
+	right: 0;
+}
+
+.servicios li:nth-of-type(3) img{
+	left: 10%;
+	transform: translateY(0%);
+}
+
+@media (min-width: 640px) {
+	.servicios li{
+		font-size: 130px;
+	}
+}
+
+/* mapa 360 */
+
+.recorrido-360 iframe{
+	width: 100vw;
+	height: 100vh;
+	border: 0;
+}

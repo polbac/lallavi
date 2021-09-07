@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.2" apprev="17873" start="node2">
+  <panorama id="node2">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="285.41" fovmode="0">
+      <start tilt="-4.82" fov="70" pan="-164.5" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 11:49 a. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node2" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-28.94" description="" pan="-209.25" title="" url="{node1}" target="175.1/0.6/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-27.6" description="" pan="-47.2" title="" url="{node5}" target="" skinid="Circulo interactivo" id="Point02"/>
+      <hotspot tilt="-23.06" description="" pan="-83.85" title="" url="{node6}" target="-87.9/5.0/70.0" skinid="Circulo interactivo" id="Point03"/>
+      <hotspot tilt="4.84" description="" pan="-170.14" title="" url="https://www.instagram.com/llavillavi/?hl=es-la" target="_blank" skinid="instagram" id="Point04"/>
+      <hotspot tilt="4.67" description="" pan="-164.18" title="" url="https://www.facebook.com/lallavila/photos/" target="_blank" skinid="Facebook" id="Point05"/>
+      <hotspot tilt="4.38" description="" pan="-158.86" title="Google Maps" url="https://g.page/Lallavi?share" target="_blank" skinid="Mapa" id="Point06"/>
+    </hotspots>
+    <media>
+      <image height="320" width="320" tilt="19.280" fov="14.143" stretch="1.000" pan="-164.800" rotz="-5.000" rotx="18.000" roty="18.000" handcursor="0" id="Element01" clickmode="0">
+        <source url="media/Logo la llavi.png"/>
+      </image>
+    </media>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="293.96" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 11:47 a. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node1" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-21.4" description="" pan="-139.28" title="" url="{node2}" target="-91.9/-2.0/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-26.28" description="" pan="-280.22" title="" url="images/24273660_384042182025667_8426002451797292121_o.jpg" target="" skinid="ht_imagen foto" id="Point02"/>
+      <hotspot tilt="-20.53" description="" pan="-105.51" title="" url="images/29793048_2155559721339281_8084560583471675396_n.jpg" target="" skinid="ht_imagen foto" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="215.03" fovmode="0">
+      <start tilt="7.13318" fov="70" pan="-179.981" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 11:51 a. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node3" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="12.68" description="" pan="-178.11" title="" url="{node4}" target="-78.6/10.5/70.0" skinid="Circulo interactivo" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="302.19" fovmode="0">
+      <start tilt="2.67871" fov="70" pan="-84.1376" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 11:53 a. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node4" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="4.3" description="" pan="-79.14" title="" url="{node5}" target="0.0/0.0/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-41.96" description="" pan="-258.23" title="" url="{node3}" target="-179.6/14.5/70.0" skinid="Circulo interactivo" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="189.84" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 11:55 a. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node5" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-43.17" description="" pan="-86.31" title="" url="{node4}" target="100.8/-32.1/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-0.44" description="" pan="-358.67" title="" url="{node2}" target="-178.0/-3.7/70.0" skinid="Circulo interactivo" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="288.43" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 11:56 a. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node6" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-17.46" description="" pan="-290.8" title="" url="{node2}" target="-3.3/-1.3/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-23.39" description="" pan="-317.8" title="" url="{node7}" target="-89.2/-25.6/70.0" skinid="Circulo interactivo" id="Point02"/>
+      <hotspot tilt="-24.15" description="" pan="-35.69" title="" url="{node8}" target="-93.5/0.5/70.0" skinid="Circulo interactivo" id="Point03"/>
+      <hotspot tilt="-13.67" description="" pan="-97.16" title="" url="{node10}" target="91.9/-2.5/70.0" skinid="Circulo interactivo" id="Point04"/>
+      <hotspot tilt="-19.08" description="" pan="-68.13" title="" url="{node9}" target="1.0/0.9/70.0" skinid="Circulo interactivo" id="Point05"/>
+      <hotspot tilt="-7.25" description="" pan="-85.82" title="" url="images/38405512_2244544115774174_436022983945879552_n.jpg" target="" skinid="ht_imagen foto" id="Point06"/>
+      <hotspot tilt="-13.88" description="" pan="-265.1" title="" url="images/IMG_20190622_181736441.jpg" target="" skinid="ht_imagen foto" id="Point07"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="231.74" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 11:58 a. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node7" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-47.62" description="" pan="-271.98" title="" url="{node6}" target="0.4/-2.0/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-31.83" description="" pan="-193.71" title="" url="{node8}" target="165.1/-5.7/70.0" skinid="Circulo interactivo" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="4/9/2020 1:25 a. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node8" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-30.23" description="" pan="-339.13" title="" url="{node7}" target="0.0/0.0/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-34.97" description="" pan="-280.56" title="" url="{node6}" target="0.0/0.0/70.0" skinid="Circulo interactivo" id="Point02"/>
+      <hotspot tilt="-35.39" description="" pan="-215.47" title="" url="{node9}" target="0.0/0.0/70.0" skinid="Circulo interactivo" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="311.72" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:01 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node9" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-32.45" description="" pan="-179.49" title="" url="{node8}" target="0.0/0.0/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-26.83" description="" pan="-135.54" title="" url="{node6}" target="87.7/-0.6/70.0" skinid="Circulo interactivo" id="Point02"/>
+      <hotspot tilt="-28.7" description="" pan="-43.99" title="" url="{node12}" target="-90.0/-7.7/70.0" skinid="Circulo interactivo" id="Point03"/>
+      <hotspot tilt="-22.17" description="" pan="-353.87" title="" url="{node13}" target="-178.2/-5.8/70.0" skinid="Circulo interactivo" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-4.50925" fov="70" pan="87.7831" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="4/9/2020 1:42 a. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node10" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-31.89" description="" pan="-271.48" title="" url="{node11}" target="88.7/-1.8/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-14" description="" pan="-94.9" title="" url="{node6}" target="95.3/-0.1/70.0" skinid="Circulo interactivo" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="161.62" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:07 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node11" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-27.9" description="" pan="-91.11" title="" url="{node10}" target="-93.1/-1.1/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-9.74" description="" pan="-93.01" title="" url="{node6}" target="90.2/-1.0/70.0" skinid="Circulo interactivo" id="Point02"/>
+      <hotspot tilt="-34.07" description="" pan="-183.65" title="" url="{node12}" target="4.7/-7.2/70.0" skinid="Circulo interactivo" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="286.66" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:08 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node12" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-22.1" description="" pan="-266.57" title="" url="{node9}" target="" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-39.58" description="" pan="-223.88" title="" url="{node11}" target="-74.9/-6.0/70.0" skinid="Circulo interactivo" id="Point02"/>
+      <hotspot tilt="-33.71" description="" pan="-359.38" title="" url="{node13}" target="-87.2/-8.3/70.0" skinid="Circulo interactivo" id="Point03"/>
+      <hotspot tilt="-29.12" description="" pan="-88.3" title="" url="{node14}" target="-97.8/-4.1/70.0" skinid="Circulo interactivo" id="Point04"/>
+      <hotspot tilt="-14.4" description="" pan="-88.58" title="" url="{node15}" target="-87.3/-5.3/70.0" skinid="Circulo interactivo" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="222.9" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:10 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node13" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-30.87" description="" pan="-262.81" title="" url="{node12}" target="-177.3/-7.0/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-19.9" description="" pan="-328.92" title="" url="{node9}" target="-146.4/-6.8/70.0" skinid="Circulo interactivo" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="300.22" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:11 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node14" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-28.62" description="" pan="-271.67" title="" url="{node12}" target="94.3/-1.7/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-13.46" description="" pan="-271.79" title="" url="{node9}" target="-169.0/-6.2/70.0" skinid="Circulo interactivo" id="Point02"/>
+      <hotspot tilt="-23.41" description="" pan="-94.68" title="" url="{node15}" target="-87.9/-1.7/70.0" skinid="Circulo interactivo" id="Point03"/>
+      <hotspot tilt="-13.42" description="" pan="-344.2" title="Terraza" url="{node27}" target="" skinid="Circulo interactivo nombre" id="Point04"/>
+      <hotspot tilt="-11.86" description="" pan="-94.61" title="" url="{node16}" target="-93.2/-5.9/70.0" skinid="Circulo interactivo" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="4/9/2020 2:17 a. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node15" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-27.18" description="" pan="-266.25" title="" url="{node14}" target="87.7/-5.8/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-18.81" description="" pan="-86.69" title="" url="{node16}" target="-96.3/-5.0/70.0" skinid="Circulo interactivo" id="Point02"/>
+      <hotspot tilt="-12.51" description="" pan="-265.66" title="" url="{node12}" target="92.6/-5.3/70.0" skinid="Circulo interactivo" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="295.48" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:14 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node16" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-21.89" description="" pan="-274.47" title="" url="{node15}" target="91.8/-8.9/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-17.88" description="" pan="-89.38" title="" url="{node17}" target="1.7/-0.8/70.0" skinid="Circulo interactivo" id="Point02"/>
+      <hotspot tilt="-10.37" description="" pan="-273.07" title="" url="{node14}" target="87.6/-6.9/70.0" skinid="Circulo interactivo" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="14.62" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:16 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node17" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-19.86" description="" pan="-177.5" title="" url="{node16}" target="86.9/-3.9/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-45.02" description="" pan="-271.01" title="" url="{node18}" target="-89.4/-9.1/70.0" skinid="Circulo interactivo" id="Point02"/>
+      <hotspot tilt="-25.89" description="" pan="-358.75" title="" url="{node19}" target="0.0/0.0/70.0" skinid="Circulo interactivo" id="Point03"/>
+      <hotspot tilt="-11.92" description="" pan="-1.06" title="" url="{node20}" target="0.0/0.0/70.0" skinid="Circulo interactivo" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="22.07" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:17 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node18" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-24.25" description="" pan="-89.15" title="" url="{node17}" target="-85.8/-4.6/70.0" skinid="Circulo interactivo" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="32.58" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:19 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node19" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-25.32" description="" pan="-177.67" title="" url="{node17}" target="-178.5/-4.2/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-12.85" description="" pan="-176.38" title="" url="{node16}" target="90.0/-7.9/70.0" skinid="Circulo interactivo" id="Point02"/>
+      <hotspot tilt="-23.8" description="" pan="-4.9" title="" url="{node20}" target="0.0/0.0/70.0" skinid="Circulo interactivo" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="79.86" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:21 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node20" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-33.62" description="" pan="-172.4" title="" url="{node19}" target="-176.5/-3.5/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-34.56" description="" pan="-5.76" title="" url="{node24}" target="59.4/-3.5/70.0" skinid="Circulo interactivo" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="46.96" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:28 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node24" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-34" description="" pan="-191.18" title="" url="{node20}" target="-178.4/-13.0/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-17.52" description="" pan="-184.71" title="" url="{node19}" target="-176.5/-6.4/70.0" skinid="Circulo interactivo" id="Point02"/>
+      <hotspot tilt="-39.79" description="" pan="-273.35" title="" url="{node21}" target="77.2/-6.9/70.0" skinid="Circulo interactivo" id="Point03"/>
+      <hotspot tilt="-42.36" description="" pan="-337.86" title="" url="{node23}" target="173.4/-6.4/70.0" skinid="Circulo interactivo" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="354.75" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:22 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node21" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-22.87" description="" pan="-356.79" title="" url="{node22}" target="0.0/-8.2/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-33.4" description="" pan="-86.33" title="" url="{node24}" target="-94.2/-24.1/70.0" skinid="Circulo interactivo" id="Point02"/>
+      <hotspot tilt="-33.18" description="" pan="-60.85" title="" url="{node23}" target="-122.8/-0.6/70.0" skinid="Circulo interactivo" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="51.62" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:24 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node22" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-24.48" description="" pan="-163.84" title="" url="{node21}" target="172.8/-10.2/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-31.07" description="" pan="-111.63" title="" url="{node23}" target="-104.1/-9.2/70.0" skinid="Circulo interactivo" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="4/9/2020 8:40 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node23" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-22.06" description="" pan="-269.48" title="" url="{node22}" target="95.4/0.5/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-36.06" description="" pan="-240.98" title="" url="{node21}" target="172.9/-6.7/70.0" skinid="Circulo interactivo" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="279.74" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:33 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node27" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-22.13" description="" pan="-104.19" title="" url="{node14}" target="94.9/-5.6/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-11.1" description="" pan="-283.86" title="" url="{node26}" target="93.1/-2.3/70.0" skinid="Circulo interactivo" id="Point02"/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="46.900" pan="-64.810" type="11" alpha="80.000" blinding="50.000" id="Lensflare01"/>
+    </media>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node26">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="294.39" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:31 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node26" title="" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-8.35" description="" pan="-268.44" title="-+----------------------------------" url="{node25}" target="93.3/0.8/70.0" skinid="Circulo interactivo" id="Point01"/>
+      <hotspot tilt="-9.53" description="" pan="-86.13" title="" url="{node27}" target="-107.7/-11.5/70.0" skinid="Circulo interactivo" id="Point02"/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="47.560" pan="-48.750" type="11" alpha="80.000" blinding="50.000" id="Lensflare01"/>
+    </media>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input height="1824" levelbiashidpi="1.000" width="1824" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="1824" width="1824" predecode="0" preload="0"/>
+      <level height="912" width="912" predecode="0" preload="0"/>
+      <level height="456" width="456" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="295.88" fovmode="0">
+      <start tilt="5.8223" fov="70" pan="90.5864" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="70" pan="0"/>
+      <max fovstereographic="270" tilt="90" fovfisheye="360" fov="100" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="31/8/2020 12:30 p. m." comment="" description="" customnodeid="" latitude="" author="" source="" tags="La llavi" nodeid="node25" title="-+----------------------------------" longitude="" copyright="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" border="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-9.45" description="" pan="-87.33" title="" url="{node26}" target="-91.5/-3.1/70.0" skinid="Circulo interactivo" id="Point01"/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="46.620" pan="-49.230" type="11" alpha="80.000" blinding="50.000" id="Lensflare01"/>
+    </media>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" comment="" description="" customnodeid="" latitude="" author="" source="" tags="" nodeid="master" title="" longitude="" copyright="" info=""/>
+  </masternode>
+</tour>
