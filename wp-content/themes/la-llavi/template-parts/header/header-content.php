@@ -57,7 +57,7 @@
 				<a href="/servicios/servicios">Servicios</a>
 				<a href="/producciones/producciones">Producciones</a>
 				<a href="/blog">Blog</a>
-				<a href="/contacto">Contacto</a>
+				<a href="/contacto/contacto">Contacto</a>
 				<div class="social">
 					<a href="#">Ig</a> | <a href="#">Fb</a>
 				</div>

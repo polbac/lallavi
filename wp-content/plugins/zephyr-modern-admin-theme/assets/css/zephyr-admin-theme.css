@@ -24,6 +24,11 @@ html, body {
   color: #fff !important;
 }
 
+html body #wpadminbar,
+html body #adminmenuback{
+  background: #0f3687 !important;
+}
+
 #adminmenuwrap,
 ul#adminmenu{
   background: transparent !important;

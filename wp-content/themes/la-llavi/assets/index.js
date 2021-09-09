@@ -1,7 +1,9 @@
 import Navigation from "./js/navigation.js"
-import Swiper from 'https://unpkg.com/swiper@7/swiper-bundle.esm.browser.min.js'
+//import Swiper from 'https://unpkg.com/swiper@7/swiper-bundle.esm.browser.min.js'
+import Productions from "./js/productions.js"
 
 const navigation = new Navigation()
+
 const swiper = new Swiper('.swiper', {
     // Optional parameters
     direction: 'horizontal',
@@ -22,3 +24,7 @@ const swiper = new Swiper('.swiper', {
   });
 
 AOS.init();
+
+if (document.querySelector('section.producciones')) {
+  new Productions()
+}
