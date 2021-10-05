@@ -17,7 +17,9 @@ get_header();
 			<?php
 			/* Start the Loop */
 			while ( have_posts() ) :
+				echo "<div class='the-title'>";
 				the_title();
+				echo "</div>";
 				the_post();
 
 				get_template_part( 'template-parts/content/content-singular' );

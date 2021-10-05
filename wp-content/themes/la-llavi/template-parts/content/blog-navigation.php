@@ -16,13 +16,20 @@
 </div>
 
 <div class="blog-list">
+    <div id="close-blog-list">
+        <div class="line line-1"></div>
+        <div class="line line-2"></div>
+    </div>
     <?php
-    $posts = new WP_Query(["post_type" => "blog"]);
+    $args = array(
+        'numberposts'	=> NULL,
+        'post_type'		=> 'blog'
+    );
+    $posts = get_posts( $args );
     
-    foreach($posts->posts as $p){
-        
+    foreach ( $posts as $post ) {
     ?>
-        <a href="<?php echo get_permalink( get_the_id()); ?>">
-            <?php echo $p->post_title ?>
+        <a href="<?php echo get_permalink( $post->ID); ?>">
+            <?php echo $post->post_title ?>
     <?php } ?>
 </div>

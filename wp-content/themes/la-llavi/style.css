@@ -593,17 +593,51 @@ nav.display .nav-item .line-2{
 	outline: 0;
 	color: var(--global--color-black);
 }
-
+.blog-navigation .archive{
+	cursor: pointer;
+}
+.blog-list a{
+	display: block;
+	font-size: 45px;
+	font-family: "Alpina";
+	color: #302B23 !important;
+}
 .blog-list{
+	padding-top: 100px;
 	position: fixed;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	text-align: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: 0;
+    background: #F3B63E;
+    z-index: 999999;
+	display: none;
 }
 
 .blog-list.open{
 	display: block;
+}
+
+#close-blog-list{
+	position: fixed;
+	top: 10px;
+	right: 20px;
+	cursor: pointer;
+	height: 33px;
+}
+
+#close-blog-list .line-1{
+	border-bottom: 1px solid black;
+    width: 33px;
+    transform: rotate(45deg);
+	margin-top: 20px;
+}
+
+#close-blog-list .line-2{
+	border-bottom: 1px solid black;
+    width: 33px;
+	transform: rotate(-45deg);
 }
 
 .blog-content{
@@ -630,4 +664,111 @@ nav.display .nav-item .line-2{
 	text-align: center;
 	padding-top: 200px;
 	font-size: 50px;
+	padding-bottom: 100px;
+}
+
+.blog-home h4{
+	margin-bottom: 50px;
+}
+
+/* contacto */
+.type-contacto{
+	text-align: center;
+	font-size: 140px;
+	font-family: "Alpina";
+}
+
+.type-contacto p{
+	max-width: initial !important;
+	line-height: 120px;
+    margin: 0 !important;
+}
+
+.single-contacto .the-title{
+	display: none;
+}
+
+.type-contacto a{
+	border: 0;
+	margin-bottom: 100px;
+	display: block;
+}
+
+.type-contacto .horario{
+	font-size: 22px;
+	font-family: "Porpora";
+	margin-bottom: 100px !important;
+	display: block;
+}
+
+.wpcf7-not-valid-tip{
+	font-size: 20px;
+    line-height: 20px !important;
+	margin-top: 20px;
+	color: #ff9a40;
+}
+
+.type-contacto label{
+	font-size: 22px;
+	font-family: "Porpora";
+	display: block;
+	line-height: initial;
+	margin-top: 50px;
+}
+
+.type-contacto input,
+.type-contacto textarea{
+	max-width: 492px;
+	color: black;
+	font-size: 22px;
+	font-family: "Porpora";
+	background: white;
+	width: 100%;
+}
+
+.type-contacto input{
+	height: 33px;
+}
+
+.type-contacto textarea{
+	height: 168px;
+	margin-top: 25px;
+}
+
+.type-contacto br{
+	display: none;
+}
+.type-contacto form p,
+.type-contacto form span,
+.type-contacto span.wpcf7-form-control-wrap{
+	line-height: 0 !important;
+}
+
+.type-contacto form input[type="submit"]:focus,
+.type-contacto form input[type="submit"]:active,
+.type-contacto form input[type="submit"]:hover,
+.type-contacto form input[type="submit"]{
+	line-height: 100px;
+    background: transparent;
+    font-size: 30px;
+    font-family: "Alpina";
+    color: white;
+    height: 100px;
+    margin: auto;
+    width: 100%;
+    display: block;
+}
+
+.wpcf7 form.sent .wpcf7-response-output {
+    border-color: #46b450;
+    position: fixed;
+    top: 50%;
+    line-height: initial !important;
+    left: 50%;
+    border: 0;
+    background: black;
+    font-size: 30px;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    margin: 0;
 }
