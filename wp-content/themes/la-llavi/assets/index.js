@@ -1,6 +1,7 @@
 import Navigation from "./js/navigation.js"
-//import Swiper from 'https://unpkg.com/swiper@7/swiper-bundle.esm.browser.min.js'
+import Swiper from 'https://unpkg.com/swiper@7/swiper-bundle.esm.browser.min.js'
 import Productions from "./js/productions.js"
+import Blog from "./js/blog.js"
 
 const navigation = new Navigation()
 
@@ -27,4 +28,8 @@ AOS.init();
 
 if (document.querySelector('section.producciones')) {
   new Productions()
+}
+
+if (document.querySelector('section.blog')) {
+  new Blog()
 }

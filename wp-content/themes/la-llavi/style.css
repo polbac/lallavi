@@ -393,12 +393,12 @@ nav.display .nav-item .line-2{
 		font-size: 140px;
 	}
 }
-.nosotrxs-que-es-la-llavi .slider-container{
+.slider-container{
 	max-width: 600px;
 	margin: auto;
 }
 
-.nosotrxs-que-es-la-llavi .swiper{
+.swiper{
 	max-width: 546px;
 	width: 75%;
 	
@@ -553,7 +553,7 @@ nav.display .nav-item .line-2{
 	bottom: 0;
 	left: 0;
 	right: 0;
-	height: 50px;
+	height: 63px;
 	background: var(--global--color-white);
 	text-align: center;
 	display: flex;
@@ -561,6 +561,24 @@ nav.display .nav-item .line-2{
 	justify-content: space-between;
 	padding-left: 20px;
 	padding-right: 20px;
+	font-size: 35px;
+	z-index: 10;
+}
+.blog-navigation .next:before{
+    content: 'next';
+	font-family: swiper-icons;
+    font-size: 20px;
+}
+
+.blog-navigation .prev:before{
+    content: 'prev';
+	font-family: swiper-icons;
+    font-size: 20px;
+}
+
+.blog-navigation .prev span,
+.blog-navigation .next span{
+	display: none;
 }
 
 .blog-navigation p{
@@ -582,7 +600,10 @@ nav.display .nav-item .line-2{
 	left: 0;
 	right: 0;
 	text-align: center;
-	
+}
+
+.blog-list.open{
+	display: block;
 }
 
 .blog-content{
@@ -599,4 +620,14 @@ nav.display .nav-item .line-2{
 .blog-content h4{
 	font-size: 50px;
 	margin-bottom: 55px;
+}
+
+.blog-content .slider-container{
+	margin-bottom: 65px;
+}
+
+.blog-home{
+	text-align: center;
+	padding-top: 200px;
+	font-size: 50px;
 }
